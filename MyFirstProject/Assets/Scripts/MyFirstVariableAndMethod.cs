@@ -7,8 +7,8 @@ public class MyFirstVariableAndMethod : MonoBehaviour
     public int currentAge = 20;
     public int ageIncrease = 5;
     bool isFunny = true;
-    string myName = "Tobias";
-    string mySecondName = "Nielsen";
+    //string myName = "Tobias";
+    //string mySecondName = "Nielsen";
     public int a = 512;
     public int b = 731;
     int d0 = 10;
