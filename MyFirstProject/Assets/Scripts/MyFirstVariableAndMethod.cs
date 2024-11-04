@@ -2,17 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class MyFirstVariableAndMethod : MonoBehaviour
 {
     public int currentAge = 20;
     public int ageIncrease = 5;
-    bool isFunny = true;
+    //bool isFunny = true;
     //string myName = "Tobias";
     //string mySecondName = "Nielsen";
     public int a = 512;
     public int b = 731;
-    int d0 = 10;
-    int d1 = 20;
+    //int d0 = 10;
+    //int d1 = 20;
 
     // Start is called before the first frame update
     void Start()
